@@ -1,0 +1,9 @@
+mongo.servers = mongodb://193.112.26.253:27017
+mongo.dbName = IBO
+
+mongo.mapPackage = com.ijson.blog.dao.entity
+mongo.connectTimeout = 5000
+mongo.socketTimeout = 10000
+encrypt.pwd=false
+
+process.server.id=1
